@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Poiret+One|Satisfy");
+@import url("https://fonts.googleapis.com/css2?family=Mouse+Memoirs");
 
 body:before {
   content: "";
@@ -26,7 +26,15 @@ body:before {
 }
 
 p,h1,h2,h3,h4,h5,h6 {
-  font-family: "Poiret One";
+  font-family: 'Mouse Memoirs', sans-serif;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.4em;
 }
 
 #card-toggle {
@@ -159,7 +167,7 @@ p,h1,h2,h3,h4,h5,h6 {
 
 .inner-top .contents h2 {
   margin-top: 0;
-  font-family: "Satisfy";
+  font-family: "Mouse Memoirs";
 }
 
 .inner-bottom {
