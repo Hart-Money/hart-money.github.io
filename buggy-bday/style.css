@@ -31,10 +31,12 @@ p,h1,h2,h3,h4,h5,h6 {
 
 h2 {
   font-size: 3em;
+  color: #ffffff;
 }
 
 p {
   font-size: 1.4em;
+  color: #ffffff;
 }
 
 #card-toggle {
@@ -143,7 +145,8 @@ p {
 
 .inner-top {
   z-index: 2;
-  background-image: url("http://amelia.hicks.house/inner-top.png");
+  background-image: url("./baby-disney.jpg");
+  background-repeat: no-repeat;
   background-size: contain;
   -webkit-transform: rotateX(5deg);
   -moz-transform: rotateX(5deg);
