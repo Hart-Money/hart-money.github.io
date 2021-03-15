@@ -30,12 +30,19 @@ p,h1,h2,h3,h4,h5,h6 {
 }
 
 h2 {
-  font-size: 3em;
+  font-size: 3.3em;
   color: #ffffff;
 }
 
 p {
-  font-size: 1.4em;
+  font-size: 1.7em;
+  color: #ffffff;
+}
+.text-center{
+  text-align: center;
+  color: #ffffff;
+}
+.text-center a{
   color: #ffffff;
 }
 
@@ -145,7 +152,7 @@ p {
 
 .inner-top {
   z-index: 2;
-  background-image: url("./baby-disney.jpg");
+  background-image: url("./test-image.png");
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transform: rotateX(5deg);
